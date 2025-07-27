@@ -1,4 +1,4 @@
-# imamulhaquehasa
+# imamulhaquehasan
 👋 Welcome to my GitHub portfolio
 👋 Hi, I'm Imamul Haque Hasan – a Full-Stack App Developer
 
